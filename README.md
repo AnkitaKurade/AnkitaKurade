@@ -1,8 +1,10 @@
+<div align="center">
+
 # Hey, I'm Ankita Kurade 👋
 
 📊 Data Science Graduate | Data Analytics & AI/ML Enthusiast
 
-Interested in exploring data, building analytical solutions, and using technology to solve real-world problems.
+</div>
 
 ### 👩‍💻 About Me
 - 🎓 B.Tech graduate in Data Science.

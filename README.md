@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hey, I'm Ankita Kurade 👋
 
-<!--
-**AnkitaKurade/AnkitaKurade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Science Graduate | Data Analytics & AI/ML Enthusiast
 
-Here are some ideas to get you started:
+Interested in exploring data, building analytical solutions, and using technology to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- 🎓 B.Tech graduate in Data Science.
+- 📊 Interested in Data Analytics, Data Science, and Business Intelligence.
+- 🐍 Enjoy working with Python, SQL, and data visualization.
+- 🤖 Exploring Machine Learning, Deep Learning, and Generative AI.
+- 💡 Interested in building practical projects and learning new technologies.
+- 🌱 Always learning and improving through hands-on experience.
+
+### 🧰 Tech Stack
+
+**Languages**
+
+Python · SQL · C · C++
+
+**Data Analysis & Visualization**
+
+Pandas · NumPy · Power BI · Excel · Matplotlib · Seaborn
+
+**Databases**
+
+MySQL · PostgreSQL · MongoDB
+
+**AI & Machine Learning**
+
+Machine Learning · Deep Learning · NLP
+
+**Tools**
+
+Jupyter Notebook · VS Code · Git · GitHub
+
+### 🌱 Currently Learning
+- Advanced Python and SQL
+- Power BI and Data Visualization
+- Machine Learning and AI applications
+- Data Engineering and Cloud Technologies
+- Generative AI and LLMs
+
+### 📬 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankita-kurade/)
+- 🐙 [GitHub](https://github.com/AnkitaKurade)
+- 📧 ankitakurade17@gmail.com
+
+🚀 Exploring data, learning new skills, and creating meaningful solutions.
